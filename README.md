@@ -5,12 +5,9 @@
 # O'rnatish
 ```
 	
-	git clone 
-
+	git clone https://github.com/phpakademik/mcrest.git
 	cd mcrest
-
 	composer update
-
 	php -S localhost:9090 index.php
 
 ```
